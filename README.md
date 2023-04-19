@@ -1,6 +1,6 @@
-<h1>Learning</h1>
+<h1>Aprendendo</h1>
 <ul>
-  <li>Solidty</li>
-  <li>JavaScript</li>
-  <li>Java</li>
+  <li><strong>Solidity</strong></li>
+  <li><strong>JavaScript</strong></li>
+  <li><strong>Java</strong></li>
 </ul>
