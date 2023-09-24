@@ -14,6 +14,3 @@ public class GreatApe77{
    }
 }
 ```
-<hr>
-<img  src="https://thumbs.gfycat.com/DifficultWavyBubblefish-size_restricted.gif" alt="Great Ape" width="100" height="100">
-<hr>
