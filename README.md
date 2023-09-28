@@ -21,3 +21,7 @@
 </div>
 
 ###
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreatApe77&layout=compact&langs_count=8&theme=cobalt"/>
+</div>
