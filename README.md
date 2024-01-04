@@ -1,27 +1,24 @@
-<h1 align="left">GreatApe77</h1>
+# 💫 About Me:
+My name is Mateus
 
-###
 
-<p align="left">My name is Mateus</p>
+## 🌐 Socials:
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22862117) 
 
-###
+# 💻 Tech Stack:
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GreatApe77&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GreatApe77&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GreatApe77&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="left">Learning:</h2>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=GreatApe77&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
-###
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=GreatApe77&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=GreatApe77&icon=5&color=3)](https://visitcount.itsvg.in)
 
-###
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreatApe77&layout=compact&langs_count=8&theme=cobalt"/>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
