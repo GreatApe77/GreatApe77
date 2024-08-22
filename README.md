@@ -1,10 +1,23 @@
 # 💫 About Me:
-My name is Mateus
+Hi, my name is Mateus, and I'm currently studying Computer Engineering. I have a strong interest in developing smart contracts on blockchain networks using Solidity. Additionally, I'm passionate about web development, working with TypeScript, Node.js, and its ecosystem.
 
+### Tools I am learning
+
+- **Languages:** Solidity, TypeScript, JavaScript,Java
+- **Web Development:** React, Next.js, Express.js, REST APIs
+- **Databases:** MongoDB,Postgress,ORMs
+- **Blockchain:** Ethereum, Polygon, Hardhat Toolkit, Truffle, EVM, ethersJs, web3Js, viem, remix IDE
+- **Other Tools:** Git, Docker
+
+### Tools I Have Worked With Professionally
+- **Languages:** Solidity, TypeScript, JavaScript
+- **Blockchain:** Ethereum, Polygon, Hardhat, Truffle, EVM, ethersJs, web3Js, viem, remix IDE, Metamask, OpenZeppelin
+- **Version Control:** Git, GitHub
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22862117) 
-[![Beecroed](https://img.shields.io/badge/Beecrowd-ffdb72)](https://judge.beecrowd.com/pt/profile/619645) 
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-ffdb72)](https://judge.beecrowd.com/pt/profile/619645)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-navarro-910673298/)
 
 
 
@@ -15,8 +28,6 @@ My name is Mateus
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GreatApe77&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GreatApe77&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GreatApe77&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GreatApe77&limit=5&theme=dark&combine_all_yearly_contributions=true)
