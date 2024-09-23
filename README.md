@@ -5,7 +5,7 @@ Hi, my name is Mateus, and I'm currently studying Computer Engineering. I have a
 
 - **Languages:** Solidity, TypeScript, JavaScript,Java
 - **Web Development:** React, Next.js, Express.js, REST APIs
-- **Databases:** MongoDB,Postgress,ORMs
+- **Databases:** MongoDB,Postgress,ORMs,Relational Databases
 - **Blockchain:** Ethereum, Polygon, Hardhat Toolkit, Truffle, EVM, ethersJs, web3Js, viem, remix IDE
 - **Other Tools:** Git, Docker
 
